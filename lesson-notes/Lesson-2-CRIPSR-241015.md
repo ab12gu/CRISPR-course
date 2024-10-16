@@ -1,8 +1,8 @@
 CRISPR Lesson 2
 
 
-1. Add DNA to ecoli
-2. Trnaformation --> 
+1. Add DNA (plasmids) to ecoli
+2. Transformation --> 
 
 Shine light 
 - OD600
@@ -44,3 +44,5 @@ Lab:
     - the plasmid is immune to the antibiotic
     - In a broth LB+carb and grown overnight
     - Will get rid of the plasmid 
+
+

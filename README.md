@@ -22,3 +22,7 @@ Course Location:
 - 1100 Northeast 47th Street #103, Seattle, WA, 98105
 - (607) 398-0870
 - info@sound.bio
+
+Hyperlinks:
+- [Benchling](https://benchling.com/s/seq-vFIWHgKJAZD40hav4Lbi?m=slm-kXlUbrVXjipKlhtFIeM5)
+- [PyMOL](https://pymol.org/)
